@@ -1,38 +1,38 @@
 # Awesome SEO Keyword Finder Tools
 A curated list of amazingly awesome seo keyword finder tools
 
-Top Ranked Online Reputation Management ORM SEO Tools
+Top Ranked Online Keyword Tools
 ------
-*Tools to help you with ORM*
+*Tools to help you with keywords*
 
-* [SERPWoo](https://www.serpwoo.com/ "Online Reputation Management Tracker & Competitive Niche Research") - Keyword Finder, SERP Tracker & Competitive Niche Research Tool
+* [SERPWoo Keyword Finder](https://www.serpwoo.com/ "Keyword Finder, SERP Tracker, & Competitive Niche Research") - Keyword Finder, SERP Tracker & Competitive Niche Research Tool
 
 
-Online Reputation Management ORM Articles & Advice
+Online Keyword Articles & Advice
 ------
-*Information to help you with ORM*
-
-* [Push Down Negative Websites Just Like Expensive ORM Professionals](https://www.serpwoo.com/blog/tutorials/ORM-Like-A-Pro/ "Push Down Negative Websites Just Like Expensive ORM Professionals") - Push Down Negative Websites Just Like Expensive ORM Professionals
+*Information to help you with keywords*
 
 
 
-Online Reputation Management ORM Video Guides
+
+
+Online Keyword Video Guides
 ------
-*Videos to help you with ORM*
-
-* [Online Reputation Management (ORM) Tracking/Monitoring Tool](https://www.youtube.com/watch?v=GwpFWyNf2kc "Online Reputation Management (ORM) Tracking/Monitoring Tool") - Online Reputation Management (ORM) Tracking/Monitoring Tool
+*Videos to help you with keywords*
 
 
-Online Reputation Management ORM SEO Infographics
+
+
+Online Keyword Infographics
 ------
-*Infographics to help you with ORM*
-
-* [Online Reputation Management: The Ultimate Guide Infographic](https://www.business2community.com/infographics/online-reputation-management-ultimate-guide-infographic-0730418 "Online Reputation Management: The Ultimate Guide Infographic") - Online Reputation Management: The Ultimate Guide Infographic
+*Infographics to help you with keywords*
 
 
-Online Reputation Management ORM SEO Services
+
+
+Online Keyword Services
 ------
-*Consultants and agencies that can help you with ORM*
+*Consultants and agencies that can help you with keywords*
 
-* [Online Reputation Management](https://reputationmanagement.co/ "REPUTATION MANAGEMENT COMPANY") - Online Reputation Management Company
+
 
