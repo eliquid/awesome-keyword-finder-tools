@@ -30,8 +30,8 @@ Online Keyword Infographics
 ------
 *Infographics to help you with keywords*
 
-* [Infographic: How To Do Keyword Research For Content Creation & SEO)](https://searchengineland.com/infographic-how-to-do-keyword-research-for-seo-134202 "") - Infographic: How To Do Keyword Research For Content Creation & SEO
-* [13 uses for keyword research to help you win in the search engines)](https://searchengineland.com/13-uses-keyword-research-help-win-search-engines-258124 "") - 13 uses for keyword research to help you win in the search engines
+* [Infographic: How To Do Keyword Research For Content Creation & SEO](https://searchengineland.com/infographic-how-to-do-keyword-research-for-seo-134202 "") - Infographic: How To Do Keyword Research For Content Creation & SEO
+* [13 uses for keyword research to help you win in the search engines](https://searchengineland.com/13-uses-keyword-research-help-win-search-engines-258124 "") - 13 uses for keyword research to help you win in the search engines
 
 
 Online Keyword Services
