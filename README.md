@@ -6,6 +6,14 @@ Top Ranked Online Keyword Tools
 *Tools to help you with keywords*
 
 * [SERPWoo Keyword Finder](https://www.serpwoo.com/learning-center/guide/interface/keyword-finder/ "Keyword Finder, SERP Tracker, & Competitive Niche Research") - Keyword Finder, SERP Tracker & Competitive Niche Research Tool
+* [Google Keyword Tool](https://adwords.google.com/KeywordPlanner "") - Google Keyword Planner
+* [Keyword Tool IO](https://keywordtool.io/ "") - Find Great Keywords Using Google Autocomplete
+* [AdWord & SEO Keyword Permutation Generator](http://seo.danzambonini.com/# "") - AdWord & SEO Keyword Permutation Generator
+* [Google Correlate](https://www.google.com/trends/correlate "") - Find searches that correlate with real-world data
+* [Bulk Keyword Generator](http://www.imforsmb.com/tools/bulk-keyword-generator/ "") - Keywords By Location
+* [Soovle](https://soovle.com/ "") - Search multiple sites for keywords at once
+* [Answer The Public](https://answerthepublic.com/ "") - Find awesome question type keywords
+
 
 
 Online Keyword Articles & Advice
