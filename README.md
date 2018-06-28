@@ -22,6 +22,10 @@ Online Keyword Articles & Advice
 *Information to help you with keywords*
 
 * [Long-Tail Keyword Research: How to Train Copywriters for SEO Success](https://www.searchenginejournal.com/keyword-research-seo-copywriting/207588/ "searchenginejournal.com") - Long-Tail Keyword Research: How to Train Copywriters for SEO Success
+* [How to Do Keyword Research for SEO: A Beginner's Guide](https://blog.hubspot.com/marketing/how-to-do-keyword-research-ht "") - How to Do Keyword Research for SEO: A Beginner's Guide
+* [KEYWORD RESEARCH FOR SEO: The Definitive Guide](https://backlinko.com/keyword-research "") - KEYWORD RESEARCH FOR SEO: The Definitive Guide
+* [How To Do Keyword Research For SEO in Just 7 Steps](https://blog.markgrowth.com/how-to-do-keyword-research-for-seo-in-just-7-steps-1f050c5f8b6d "") - How To Do Keyword Research For SEO in Just 7 Steps
+* [How to do Keyword Research the Smart Way: Targeting Interest and Intent](https://neilpatel.com/blog/keyword-research-smart-way/ "") - How to do Keyword Research the Smart Way: Targeting Interest and Intent
 
 
 
