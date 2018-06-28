@@ -42,9 +42,4 @@ Online Keyword Infographics
 * [13 uses for keyword research to help you win in the search engines](https://searchengineland.com/13-uses-keyword-research-help-win-search-engines-258124 "") - 13 uses for keyword research to help you win in the search engines
 
 
-Online Keyword Services
-------
-*Consultants and agencies that can help you with keywords*
-
-
 
