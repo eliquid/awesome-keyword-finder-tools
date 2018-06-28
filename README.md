@@ -30,6 +30,7 @@ Online Keyword Video Guides
 ------
 *Videos to help you with keywords*
 
+* [How To Do Keyword Research With Tips](https://www.youtube.com/watch?v=JgGD0eO0ZoQ "Keyword Research") - How To Do Keyword Research With Tips
 * [Keyword Research](https://www.youtube.com/watch?v=O_FfdjNOgpQ "") - Keyword Research - Watch & Learn As I Show You How To Do Keyword Research Like A Boss
 * [Advanced Keyword Research Tutorial (5-Step Blueprint)](https://www.youtube.com/watch?v=TaOA_Zy2XUw "") - Advanced Keyword Research Tutorial (5-Step Blueprint)
 
