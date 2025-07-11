@@ -14,6 +14,7 @@ Top Ranked Online Keyword Tools
 * [Bulk Keyword Generator](http://www.imforsmb.com/tools/bulk-keyword-generator/ "") - Keywords By Location
 * [Soovle](https://soovle.com/ "") - Search multiple sites for keywords at once
 * [Answer The Public](https://answerthepublic.com/ "") - Find awesome question type keywords
+* [Serplux](https://serplux.com/ "") - AI Growth Agents to Boost Traffic, Rankings & Sales - 24/7
 
 
 
