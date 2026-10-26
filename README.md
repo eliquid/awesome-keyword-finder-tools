@@ -46,6 +46,7 @@ Online Keyword Infographics
 
 * [Infographic: How To Do Keyword Research For Content Creation & SEO](https://searchengineland.com/infographic-how-to-do-keyword-research-for-seo-134202 "") - Infographic: How To Do Keyword Research For Content Creation & SEO
 * [13 uses for keyword research to help you win in the search engines](https://searchengineland.com/13-uses-keyword-research-help-win-search-engines-258124 "") - 13 uses for keyword research to help you win in the search engines
+* [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 
 
